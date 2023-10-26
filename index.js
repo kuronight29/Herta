@@ -8,9 +8,11 @@ client.on('ready', async () => {
 
 client.on('messageCreate', async message => {
   if (message.author.bot) return;
-  if (message.content === '!work') {
+  if (message.content === 's!work') {
     await message.channel.sendSlash('1165870665304379402', 'work');
+    console.log(`${client.user.username} đã work`);
     setTimeout(async () => {
+        console.log(`${client.user.username} đã work`);
         await message.channel.sendSlash('1165870665304379402', 'work');
     }, 3600000); 
   }
