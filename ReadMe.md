@@ -4,6 +4,7 @@
 - lấy token của acc bạn thay cho token trong mục config
    - cách lấy token : https://accgroup.vn/discord-token-login
 - có thể tải về chạy = nodejs hoặc chạy qua replit nhé. Sử dụng stat.bat để chạy
+  - vào channel muốn bot chạy sử dung lệnh `!work`
 # Liên hệ
 - Discord : longvuuuu
 - Facebook : https://www.facebook.com/profile.php?id=100086515356897
