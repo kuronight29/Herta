@@ -8,3 +8,6 @@
 # Liên hệ
 - Discord : longvuuuu
 - Facebook : https://www.facebook.com/profile.php?id=100086515356897
+# module
+= Discord self bot v13 của aiko-chan-ai 
+   - https://github.com/aiko-chan-ai/discord.js-selfbot-v13
